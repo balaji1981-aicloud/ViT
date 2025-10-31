@@ -1,0 +1,19 @@
+## Employee Satisfaction Survey - Summary
+
+  1. Overall Trend & Performance:  
+Average response is high (87.39%), but trending downwards (-0.77% change). While generally positive, declines warrant focused attention to prevent further erosion of satisfaction.
+
+  2. Improvements (Areas Increased):  
+Significant gains in training, initiative encouragement, and work/life balance suggest positive shifts in employee development and wellbeing. Recommendation score (NPS) also saw a considerable increase.
+
+  3. Declines (Areas Decreased):  
+Declines in respect, confidence in the future, and feelings of value are concerning. These indicate potential systemic issues impacting morale and engagement. 
+
+  4. Positives / Strengths:  
+High scores in health & safety (99.76%) demonstrate a strong commitment to employee wellbeing. Initiative encouragement (96.66%) highlights a positive and proactive work environment.
+
+  5. Negatives / Concerns:  
+Multiple declines related to employee value, autonomy and future confidence suggest a disconnect. Decreased scores in respect are particularly alarming and need immediate investigation.
+
+  6. Areas to Focus Next:  
+Prioritize addressing respect, confidence, and value. Investigate drivers behind declining autonomy and explore pathways to rebuild employee confidence in the future.
